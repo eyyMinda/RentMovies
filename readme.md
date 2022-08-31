@@ -4,13 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `npm start`
 
-Runs the Server (back-end).\
+Runs the `Server` (back-end).\
 Open [http://localhost:3000/api](http://localhost:3000/api) to view it in your browser.
 
 ### `npm build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode (front-end).
+Builds React in `Production mode` (front-end).\
 Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
 
