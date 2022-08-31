@@ -10,7 +10,8 @@ Open [http://localhost:3000/api](http://localhost:3000/api) to view it in your b
 ### `npm build`
 
 Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+It correctly bundles React in production mode (front-end).
+Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
 
 ## Naudodami NodeJs, DB ir REACT sukurkite filmų nuomos platformos aplikaciją.
