@@ -23,7 +23,7 @@ Category: (documentary, family, animation, drama, horror);
 Title,
 Price,
 Rating: float(du skaičiai po kablelio);
-Jeigu reikia, į lentelę galite pridėti papildomų stulpelių.
+**(Jeigu reikia, į lentelę galite pridėti papildomų stulpelių.)**
 
 ♥ **Filmų nuomos platforma turi susidėti iš dviejų dalių: administracinės ir viešos.**
 
