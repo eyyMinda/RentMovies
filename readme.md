@@ -17,12 +17,12 @@ Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 ## Naudodami NodeJs, DB ir REACT sukurkite filmų nuomos platformos aplikaciją.
 
 ## Sukurkite duomenų bazės lentelę kurioje galima saugoti:
-category:(documentary, family, animation, drama, horror);
+Category: (documentary, family, animation, drama, horror);
 
 ## Sukurkite duomenų bazės lentelę kurioje galima saugoti: 
-title,
-price,
-rating: float(du skaičiai po kablelio);
+Title,
+Price,
+Rating: float(du skaičiai po kablelio);
 Jeigu reikia, į lentelę galite pridėti papildomų stulpelių.
 
 ♥ **Filmų nuomos platforma turi susidėti iš dviejų dalių: administracinės ir viešos.**
