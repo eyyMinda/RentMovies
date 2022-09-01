@@ -3,6 +3,8 @@ const express = require('express');
 const PORT = 3001;
 const app = express();
 
+const connection = mysql.createConnection('localhost', PORT);
+
 app.use(express.static(path.resolve(__dirname, '../client/build')));
 
 app.get('/api', (req, res) => {
